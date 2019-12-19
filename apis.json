@@ -1,0 +1,56 @@
+{
+    "name": "OCBC Bank",
+    "description": "<p>The OCBC Bank group comprises a family of companies owned by Singapore's longest established local bank. To address the diversity across cultures and geographies, OCBC Bank has expanded and acquired entities beyond the world of traditional commercial banking. By understanding our customers' needs, we develop convenient and effective technologies to improve the user experience. Today, through APIs that are simple to manage, we offer this convenience to you.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28117-ocbc-bank.jpg",
+    "tags": [
+        "api provider",
+        "assets",
+        "banking",
+        "financial",
+        "financial services",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ocbc-bank\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OCBC Bank",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28117-ocbc-bank.jpg",
+            "humanURL": "https:\/\/api.ocbc.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ocbc-bank-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ocbc-bank-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ocbc-bank-of-singapore"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/api.ocbc.com\/store\/api_products"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OCBCBank"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/api.ocbc.com"
+        }
+    ]
+}
